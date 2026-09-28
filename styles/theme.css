@@ -1,0 +1,11 @@
+/* CDN Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+/* CSS Variables */
+:root {
+  --font-ko-main: 'Noto Serif KR', serif;
+  --font-ko-sub: 'Pretendard', sans-serif;
+  --font-en-main: 'Roustel', serif;
+  --color-primary: #FFFFFF;
+  --color-secondary: #D8BF9A;
+}
